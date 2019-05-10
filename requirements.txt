@@ -14,7 +14,6 @@ psycopg2==2.8.2
 pyasn1==0.4.5
 pyasn1-modules==0.2.5
 pycparser==2.19
-pypyodbc==1.3.4
 pytz==2019.1
 rsa==4.0
 six==1.12.0
